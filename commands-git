@@ -5,3 +5,6 @@ git commit -m 'Nom du rendu'
 git push 
 
 git pull
+
+git checkout -b add-create-branch-command
+

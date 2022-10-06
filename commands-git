@@ -1,0 +1,5 @@
+git clone [Nom du repo]
+
+git add --all
+git commit -m 'Nom du rendu' 
+git push 
